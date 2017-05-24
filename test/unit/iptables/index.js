@@ -15,7 +15,8 @@ var supported_methods = [
   'insert',
   'replace',
   'dump',
-  'check'
+  'check',
+  'list'
 ];
 
 describe('iptables', function () {
